@@ -1,4 +1,3 @@
-<img width="1202" alt="image" src="https://github.com/user-attachments/assets/025bf5e0-c288-4e87-a11d-4fe9d068311e" /># DJI-SRT-File-Visualizer-with-Python
 
 This Python tool parses DJI drone `.SRT` metadata files to visualize:
 
