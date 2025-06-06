@@ -1,4 +1,4 @@
-# DJI-SRT-File-Visualizer-with-Python
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/025bf5e0-c288-4e87-a11d-4fe9d068311e" /># DJI-SRT-File-Visualizer-with-Python
 
 This Python tool parses DJI drone `.SRT` metadata files to visualize:
 
@@ -32,6 +32,9 @@ python dji_srt_visualizer.py
 - Altitude plot shown for 10 seconds
 - HTML map saved in the same folder as the `.SRT` file
 - You can open the HTML file manually in your browser
+  
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/30ed8c62-acef-414a-ba66-963f15172817" />
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/72bf3770-ec2f-4c70-ac68-98c6c6deb849" />
 
 ## 📂 Example Folder
 
